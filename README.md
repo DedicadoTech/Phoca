@@ -5,19 +5,24 @@
 
 # Projeto do Curso de <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% /> Python-Sabado  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% />
 
-## Professor 
-[Adriano Leite da Silva](https://github.com/adrianoleitedasilva) 
+# PROJETO
 
-## Colaboradores
+### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[Davi de Souza Silva](https://github.com/artesaoTI/)
+# Professor 
 
-[Cinthia Oliveira](https://github.com/cintthia-oliver)
+[![](https://img.shields.io/badge/Adriano%20Leite-adrianoleitedasilva-blueviolet)](https://github.com/adrianoleitedasilva) 
 
-[Cristoffer peres](https://github.com/crisperes)
+# Colaboradores
 
-[Luciana Ferreira](https://github.com/lusilva1993)
+[![](https://img.shields.io/badge/Davi%20S%20Silva-artesaoTI-blue)](https://github.com/artesaoTI/) ![](https://img.shields.io/github/followers/artesaoTI?style=social)
 
-[Viviane Morro](https://github.com/VivianeMorro)
+[![](https://img.shields.io/badge/Cinthia%20Oliveira-Cintthia--Oliver-blue)](https://github.com/cintthia-oliver)
 
-[Professor Patinho](https://github.com/ProfessorPatinho)
+[![](https://img.shields.io/badge/Cristoffer%20peres-Crisperes-blue)](https://github.com/crisperes)
+
+[![](https://img.shields.io/badge/Luciana%20F%20Silva-lusilva1993-blue)](https://github.com/lusilva1993)
+
+[![](https://img.shields.io/badge/Viviane%20Morro-VivianeMorro-blue)](https://github.com/VivianeMorro)
+
+[![](https://img.shields.io/badge/Professor-Patinho-blue)](https://github.com/ProfessorPatinho)
