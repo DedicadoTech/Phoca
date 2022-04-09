@@ -2,6 +2,17 @@
 
 ## Projeto do Curso de Python-Sabado
 
+## Professor
+[Adriano Leite da Silva](https://github.com/adrianoleitedasilva) 
+
 ## Colaboradores
 
+[Davi de Souza Silva](https://github.com/artesaoTI/)
 
+[Cinthia Oliveira](https://github.com/cintthia-oliver)
+
+[Cristoffer peres](https://github.com/crisperes)
+
+[Luciana Ferreira](https://github.com/lusilva1993)
+
+[Viviane Morro](https://github.com/VivianeMorro)
