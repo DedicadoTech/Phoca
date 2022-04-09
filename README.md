@@ -15,7 +15,7 @@
 
 # Colaboradores
 
-[![](https://img.shields.io/badge/Davi%20S%20Silva-artesaoTI-blue)](https://github.com/artesaoTI/) ![](https://img.shields.io/github/followers/artesaoTI?style=social)
+[![](https://img.shields.io/badge/Davi%20S%20Silva-artesaoTI-blue)](https://github.com/artesaoTI/) ![](https://img.shields.io/github/followers/artesaoTI?style=social) ![](https://img.shields.io/github/contributors/artesaoTI/Phoca)
 
 [![](https://img.shields.io/badge/Cinthia%20Oliveira-Cintthia--Oliver-blue)](https://github.com/cintthia-oliver)
 
