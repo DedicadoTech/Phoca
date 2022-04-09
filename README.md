@@ -1,10 +1,8 @@
  ![Phoca](https://user-images.githubusercontent.com/54972485/162575173-95fe2af9-be3d-4708-b33e-f8e2379d6ab7.jpeg)
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width= 3% /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width= 3% /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% />
 
-# Projeto do Curso de <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% /> Python-Sabado  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% />
-
+# Projeto do Curso de <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=3% /> Python-Sabado  
 # PROJETO
 
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
